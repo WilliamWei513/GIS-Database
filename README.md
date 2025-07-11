@@ -1,2 +1,2 @@
-# Algoma-GIS-Database
-GIS data for Algoma web platform
+# GIS-Database
+general GIS data
